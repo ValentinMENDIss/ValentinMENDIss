@@ -8,6 +8,8 @@ I'm Valentin Virstiuc, a passionate programmer and tech enthusiast with a love f
 When I'm not tinkering with my PC (old or new, it's all good!), you can find me diving into the wonderful worlds
 of Linux, BSD, and servers.
 
+### **Why do I do this?**
+Of course, because I love it :). 
 My GitHub page is where I share my coding adventures in Shell (Bash), Python (with a focus on small game
 development), and C programming. You might find interesting projects like my fetch program, which helps you
 discover your system's hardware details and RAM usage.
@@ -16,18 +18,37 @@ As an enthusiast of cyber-security, I occasionally experiment with security-rela
 haven't dived deep into this area... yet!). Nevertheless, my passion for learning and sharing knowledge drives me
 to contribute to the community through code.
 
-**About my projects:**
+### **About my projects:**
 
 On this page, you'll find a collection of scripts, tools, and games that I've created while exploring programming
 languages like Bash, Python, and C. Feel free to explore, learn from, or even contribute to these projects!
 
-**What I'm all about:**
+### 🧰 **Languages and Tools**
 
-* Programming with passion
-* Exploring Linux, BSD, and servers
-* Learning and sharing knowledge
-* Tinkering with PC hardware (old and new!)
-* Experimenting with cyber-security (in a beginner's capacity)
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+
+
+<br />
+
+---
+### **What I'm all about:**
+
+| **Area**                                                                    |
+|-----------------------------------------------------------------------------|
+| * Programming with passion                                              🧑‍💻  |
+| * Exploring Linux, BSD, and servers                                         |
+| * Learning and sharing knowledge                                            |
+| * Tinkering with PC hardware (old and new!)                                 |
+| * Experimenting with cyber-security (in a beginner's capacity)              |
 
 
 ---
