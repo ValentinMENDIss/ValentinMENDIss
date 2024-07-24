@@ -4,7 +4,7 @@
 
 # About me:
 
-I'm Valentin Virstiuc, a passionate programmer and tech enthusiast with a love for exploring the world of computing.
+I'm Valentin Virstiuc, a passionate programmer and tech enthusiast 💻 with a love for exploring the world of computing .
 When I'm not tinkering with my PC (old or new, it's all good!), you can find me diving into the wonderful worlds
 of Linux, BSD, and servers.
 
@@ -63,3 +63,10 @@ languages like Bash, Python, and C. Feel free to explore, learn from, or even co
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinMENDIss&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/ValentinMENDIss)[![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValentinMENDIss&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&theme=radical)](https://github.com/ValentinMENDIss)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinMENDIss&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+### **About my credentials**
+<a href="https://www.youtube.com/@mendiss-programming">
+  <img alt="youtube channel" title="Subscribe to my YouTube channel" src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white/></a> 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
