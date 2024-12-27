@@ -4,18 +4,23 @@
 
 # About me:
 
-I'm Valentin Virstiuc, a passionate programmer and tech enthusiast 💻 with a love for exploring the world of computing .
-When I'm not tinkering with my PC (old or new, it's all good!), you can find me diving into the wonderful worlds
-of Linux, BSD, and servers.
+I'm Valentin Virstiuc, a passionate programmer and tech enthusiast 💻 with a love for exploring the world of computing.
+When I'm not tinkering with my PC, you can find me diving into the wonderful worlds
+of Linux, BSD, and servers, as well as Electronics (microcontrollers, etc...).
 
 ### **Why do I do this?**
-Of course, because I love it :). 
-My GitHub page is where I share my coding adventures in Shell (Bash), Python (with a focus on small game
-development), and C programming. You might find interesting projects like my fetch program, which helps you
+**Of course, because I love it :)**. **As a kid I always felt attached to electronic devices, computers and just everything related to programming**. I really loved to tinker with games, adding files to modify them and to improve overall performance of the game, and just seeing how the game works and what **can** be changed.
+But I haven't really gotten into programming till I was about 15 years old (2022). At that time I have started learning basics of python language in school. And I have thought about programming before but I felt as if you need to be 'the best version of yourself', I felt as if I wasn't good enough to even dare to start programming. _'There are so many people that have gotten into this, but haven't made it. Why should I made it then?', I have said to myself_. **Starting learning my first programming language, which is Python, I have discovered that I have a driving force towards programming**. **I love everything related to PCs, electronics, physics, and overall IT, and I can talk about those subjects for a very long time :).** 
+I've seen a lot of people getting into this field, but a lot of them have abandoned the idea of becomming programmer very quickly, or had no real interest in IT. And I thought I would too. But as I started to learn more about IT and have more experience in it, I felt confident that it is what I love and what I enjoy. 
+I am also trying to contact with people around me in real life that might have the same interest and passion towards this as I do, but I haven't found anyone sadly. That's also one of the reasons why I got into GitHub, and other social platforms. These are the places where I can show my knowledge and passion, and where I can learn new amazing and very intelligent people. Thank you very much for your attention :D.   
+
+#### Briefly about my GitHub page
+
+My GitHub page is where I share my coding knowledge in Shell (Bash), Python (with a focus on small game
+development), low-level languages like C or Rust programming, and many others. You might find here some interesting projects like my fetch program, which helps you
 discover your system's hardware details and RAM usage.
 
-As an enthusiast of cyber-security, I occasionally experiment with security-related topics (though I acknowledge I
-haven't dived deep into this area... yet!). Nevertheless, my passion for learning and sharing knowledge drives me
+Nevertheless, my passion for learning and sharing knowledge drives me
 to contribute to the community through code.
 
 ### **About my projects:**
@@ -27,14 +32,14 @@ languages like Bash, Python, and C. Feel free to explore, learn from, or even co
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" />
-
 
 
 <br />
@@ -43,11 +48,11 @@ languages like Bash, Python, and C. Feel free to explore, learn from, or even co
 ### **The OSes/Distros I'm passionate about**
 
 <img align="left" alt="NixOS" width="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-plain.svg" />
-<img align="left" alt="Debian" width="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" />
 <img align="left" alt="Gentoo" width="35px" style="padding-right:10px;" src="https://github.com/detain/svg-logos/blob/master/svg/g/gentoo.svg" />
 <img align="left" alt="Arch" width="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" />
-<img align="left" alt="Mint" width="35px" style="padding-right:10px;" src="https://github.com/linuxmint/brand-logo/blob/master/leaf-badge.svg" />
 <img align="left" alt="FreeBSD" width="35px" style="padding-right:10px;" src="https://github.com/gilbarbara/logos/blob/main/logos/freebsd.svg" />
+<img align="left" alt="Debian" width="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" />
+<img align="left" alt="Mint" width="35px" style="padding-right:10px;" src="https://github.com/linuxmint/brand-logo/blob/master/leaf-badge.svg" />
 
 <br />
 
@@ -59,8 +64,8 @@ languages like Bash, Python, and C. Feel free to explore, learn from, or even co
 | * Programming with passion                                              🧑‍💻  |
 | * Exploring Linux, BSD, and servers                                         |
 | * Learning and sharing knowledge                                            |
-| * Tinkering with PC hardware (old and new!)                                 |
-| * Experimenting with cyber-security (in a beginner's capacity)              |
+| * Tinkering with PC hardware and electronics(old and new!)                                 |
+| * Experimenting with low-level programming languages              |
 
 
 ---
