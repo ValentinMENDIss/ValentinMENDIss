@@ -4,7 +4,7 @@
 
 # About me:
 
-I'm Valentin(ValentinMENDISS), a passionate programmer and tech enthusiast 💻 with a love for exploring the world of computing.
+I'm Valentin(ValentinMENDIss), a passionate programmer and tech enthusiast 💻 with a love for exploring the world of computing.
 When I'm not tinkering with my PC, you can find me diving into the wonderful worlds
 of Linux, BSD, and servers, as well as Electronics (microcontrollers, etc...).
 
