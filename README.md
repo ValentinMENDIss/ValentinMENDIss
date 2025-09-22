@@ -4,31 +4,25 @@
 
 # About me:
 
-I'm Valentin(ValentinMENDIss), a passionate programmer and tech enthusiast 💻 with a love for exploring the world of computing.
-When I'm not tinkering with my PC, you can find me diving into the wonderful worlds
-of Linux, BSD, and servers, as well as Electronics (microcontrollers, etc...).
+I'm Valentin ( ValentinMENDIss ), a passionate programmer and tech enthusiast 💻.
+I myself am very interested but not limited to Linux, BSD, servers, programming, as well as Electronics (microcontrollers, etc...).
 
 ### **Why do I do this?**
-**Of course, because I love it :)**. **As a kid I always felt attached to electronic devices, computers and just everything related to programming**. I really loved to tinker with games, adding files to modify them and to improve overall performance of the game, and just seeing how the game works and what **can** be changed.
-But I haven't really gotten into programming till I was about 15 years old (2022). At that time I have started learning basics of python language in school. And I have thought about programming before but I felt as if you need to be 'the best version of yourself', I felt as if I wasn't good enough to even dare to start programming. _'There are so many people that have gotten into this, but haven't made it. Why should **I** succeed then?', I have said to myself_. **Starting learning my first programming language, which is Python, I have discovered that I have a driving force towards programming**. **I love everything related to PCs, electronics, physics, and overall IT, and I can talk about those subjects for a very long time :).** 
-I've seen a lot of people getting into this field, but a lot of them have abandoned the idea of becomming programmer very quickly, or had no real interest in IT. And I thought I would too. But as I started to learn more about IT and have more experience in it, I felt confident that it is what I love and what I enjoy. 
-I am also trying to contact with people around me in real life that might have the same interest and passion towards this as I do, but I haven't found anyone sadly. That's also one of the reasons why I got into GitHub, and other social platforms. These are the places where I can show my knowledge and passion, and where I can learn new amazing and very intelligent people. Thank you very much for your attention :D.   
+**Of course, because I love it :)**. **As a kid I always felt attached to electronic devices, computers and just everything related to programming**. I really loved to tinker with games, adding files to modify them and to improve overall performance of games (you may know such games, that have bugs or errors, and you need to tinker with them yourself to solve them :) ), and just seeing how the game works and what **can** be changed.
+But I haven't really gotten into programming till I was about 15 years old (which was in 2022). At that time I have started learning basics of python language in school. I have thought about programming before but it felt to me as if you need to be 'the best version of yourself'. _'There are so many people that have gotten into programming or engineering, but haven't succeeded in their career. Why should **I** succeed then?', I have said to myself_. **But in the school, when I started learning my first programming language, which is Python, I have discovered that I have a driving force towards programming and a passion toward everything related to the tech.**. **I love everything related to PCs, electronics, physics, and overall IT, and I can talk about those topics for a very long time :).** 
+I've seen a lot of people getting into this field, but a lot of them have abandoned the idea of becomming programmer very quickly, or had no real interest in IT. And I thought I would too. But as I started to learn more about IT and have gained more experience in this field, though still admitting that there is a lot that I don't know, I felt confident that it is what I love and what I enjoy. 
 
-#### Briefly about my GitHub page
+I am also trying to contact with people around me in real life that might have the same interest and passion towards this as I do, but I haven't found anyone sadly. That's also one of the reasons why I got into GitHub, and other social platforms. These are the places where I can share my configs, ideas and passion, and where I can learn new amazing people :D.   
 
-My GitHub page is where I share my coding knowledge in Shell (Bash), Python (with a focus on small game
-development), low-level languages like C or Rust programming, and many others. You might find here some interesting projects like my fetch program, which helps you
-discover your system's hardware details and RAM usage.
+#### Briefly about my GitHub page ( projects )
 
-Nevertheless, my passion for learning and sharing knowledge drives me
-to contribute to the community through code.
+My GitHub page is where I share my scripts/applications in different programming languages Those are typically Shell/Bash, Python (typically small "game
+development"), low-level languages like C or Rust, and many others.
 
-### **About my projects:**
-
-On this page, you'll find a collection of scripts, tools, and games that I've created while exploring programming
-languages like Bash, Python, and C. Feel free to explore, learn from, or even contribute to these projects!
 
 ### 🧰 **Languages and Tools I use**
+
+I typically find nowadays that in reality it doesn't really mean anything, nor doesn't it change much what you are using, but instead how. You should choose appropriate utilities and tools for your job and not rely on one only. But if you still want to see some of them, I guess here they are:
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -45,7 +39,9 @@ languages like Bash, Python, and C. Feel free to explore, learn from, or even co
 <br />
 
 
-### **The OSes/Distros I'm passionate about**
+### **The Linux Distributions I'm passionate about or utilize**
+
+Not all Distros are included here, as this list would have been to long :3.
 
 <img align="left" alt="NixOS" width="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-plain.svg" />
 <img align="left" alt="Gentoo" width="35px" style="padding-right:10px;" src="https://github.com/detain/svg-logos/blob/master/svg/g/gentoo.svg" />
@@ -57,19 +53,11 @@ languages like Bash, Python, and C. Feel free to explore, learn from, or even co
 <br />
 
 ---
-### **What I'm all about:**
 
-| **Area**                                                                    |
-|-----------------------------------------------------------------------------|
-| * Programming with passion                                              🧑‍💻  |
-| * Exploring Linux, BSD, and servers                                         |
-| * Learning and sharing knowledge                                            |
-| * Tinkering with PC hardware and electronics(old and new!)                                 |
-| * Experimenting with low-level programming languages              |
-
-
----
 ## 📊 GitHub Stats       
+
+*"If everyone ads this, why can't I then?"* - *Quote made by ... human?*
+
 <div align="left">
   <p>
     <a href="https://komarev.com/ghpvc/?username=ValentinMENDIss&label=Profile+Views&color=blue">
@@ -85,7 +73,7 @@ languages like Bash, Python, and C. Feel free to explore, learn from, or even co
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinMENDIss&bg_color=0d1117&color=cd7caa&line=a3d5ff&point=ffffff&area=333333&hide_border=true" style="border-radius: 10px">
 
 
-### **About my credentials**
+### **My Credentials**
 <a href="https://www.youtube.com/@mendiss-programming">
   <img alt="youtube channel" title="Subscribe to my YouTube channel" src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white/></a> 
 
