@@ -56,7 +56,7 @@ Not all Distros are included here, as this list would have been to long :3.
 
 ## 📊 GitHub Stats       
 
-*"If everyone ads this, why can't I then?"* - *Quote made by ... human?*
+*"If everyone adds this, why can't I then?"* - *Quote made by ... human?*
 
 <div align="left">
   <p>
