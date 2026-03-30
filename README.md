@@ -25,10 +25,13 @@ development"), low-level languages like C or Rust, and many others.
 I typically find nowadays that in reality it doesn't really mean anything, nor doesn't it change much what you are using, but instead how. You should choose appropriate utilities and tools for your job and not rely on one only. But if you still want to see some of them, I guess here they are:
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="CMake" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg">
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
